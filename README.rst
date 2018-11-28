@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshakhat%2Fshaker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshakhat%2Fshaker?ref=badge_shield)
+
 Shaker
 ======
 
@@ -66,3 +68,7 @@ Links
 * Docker - https://hub.docker.com/r/shakhat/shaker/
 * Docs - http://pyshaker.readthedocs.io/
 * Bugtracker - https://launchpad.net/shaker/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshakhat%2Fshaker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshakhat%2Fshaker?ref=badge_large)
